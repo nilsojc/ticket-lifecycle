@@ -25,9 +25,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ## Lifecycle Stages
 
-<img src="https://img.youtube.com/vi/ZzRK-kXHwWk/0.jpg" alt="osTicket Ticket Lifecycle Thumbnail" width="50%" />
-<br />
-Click <a href="https://www.youtube.com/watch?v=ZzRK-kXHwWk" target="_blank">here</a> to watch the demo.
+
+
+https://github.com/user-attachments/assets/20237bf3-c23f-40c8-adb2-50a47e958b7b
+
+
 
 Above demonstrates the entire lifecycle of a ticket in osTicket. It begins with ticket intake, where a user submits a new request. The ticket is then assigned to the appropriate agent, and communication between the agent and the user is established. The agent works on resolving the issue, keeping the user updated throughout the process. Finally, the ticket is resolved, and the user is notified of the resolution.
 
